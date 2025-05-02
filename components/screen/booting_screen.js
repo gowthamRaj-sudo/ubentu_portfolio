@@ -54,14 +54,14 @@ function BootingScreen(props) {
       <div className="text-white mb-4">
         <a
           className="underline"
-          href="https://www.linkedin.com/in/dawidolko/"
+          href="https://www.linkedin.com/in/gowtham-raj-476805209"
           rel="noreferrer noopener"
           target="_blank">
           linkedin
         </a>
         <span className="font-bold mx-1">|</span>
         <a
-          href="https://github.com/dawidolko/Simulaing-Ubuntu-System-GUI"
+          href="https://github.com/gowthamRaj-sudo"
           rel="noreferrer noopener"
           target="_blank"
           className="underline">

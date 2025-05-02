@@ -10,7 +10,7 @@ function DefaultMenu(props) {
       }>
       <a
         rel="noreferrer noopener"
-        href="https://github.com/dawidolko/Simulaing-Ubuntu-System-GUI"
+        href="https://github.com/gowthamRaj-sudo"
         target="_blank"
         className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
         <span className="ml-5">🌟</span>{" "}
@@ -18,7 +18,7 @@ function DefaultMenu(props) {
       </a>
       <a
         rel="noreferrer noopener"
-        href="https://github.com/dawidolko/Simulaing-Ubuntu-System-GUI/issues"
+        href="https://github.com/gowthamRaj-sudo"
         target="_blank"
         className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
         <span className="ml-5">❗</span>{" "}
@@ -27,7 +27,7 @@ function DefaultMenu(props) {
       <Devider />
       <a
         rel="noreferrer noopener"
-        href="https://www.linkedin.com/in/dawidolko/"
+        href="https://www.linkedin.com/in/gowtham-raj-476805209"
         target="_blank"
         className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
         <span className="ml-5">🙋‍♂️</span>{" "}
@@ -37,7 +37,7 @@ function DefaultMenu(props) {
       </a>
       <a
         rel="noreferrer noopener"
-        href="https://github.com/dawidolko"
+        href="https://github.com/gowthamRaj-sudo"
         target="_blank"
         className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
         <span className="ml-5">🤝</span>{" "}
@@ -47,7 +47,7 @@ function DefaultMenu(props) {
       </a>
       <a
         rel="noreferrer noopener"
-        href="mailto:poczta@dawidolko.pl"
+        href="mailto:gowthamraj87544@gmail.com"
         target="_blank"
         className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
         <span className="ml-5">📥</span>{" "}

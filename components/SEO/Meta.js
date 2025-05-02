@@ -9,16 +9,16 @@ export default function Meta() {
       <meta charSet="utf-8" />
       <meta
         name="title"
-        content="ubuntu.dawidolko.pl - Simulaing System Ubuntu"
+        content="ubuntu.gowtham - Simulaing System Ubuntu"
       />
       <meta
         name="description"
-        content="Dawid Olko's (dawidolko) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
+        content="Gowtham Raj (gowthamRaj) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
       />
-      <meta name="author" content="Dawid Olko (dawidolko)" />
+      <meta name="author" content="Gowtham Raj (gowthamRaj)" />
       <meta
         name="keywords"
-        content="dawidolko, dawidolko's portfolio, dawidolko linux, ubuntu portfolio, dawid olko protfolio,dawid olko computer, dawid olko, dawidolko ubuntu, dawid olko ubuntu portfolio"
+        content="gowthamraj, gowthamraj's portfolio, gowthamraj linux, ubuntu portfolio, gowtham raj protfolio,gowtham raj computer, gowtham raj, gowthamraj ubuntu, gowtham raj ubuntu portfolio"
       />
       <meta name="robots" content="index, follow" />
       <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
@@ -30,37 +30,37 @@ export default function Meta() {
       /* Schema.org for Google */
       <meta
         itemProp="name"
-        content="ubuntu.dawidolko.pl - Simulaing System Ubuntu"
+        content="ubuntu.gowthamraj - Simulaing System Ubuntu"
       />
       <meta
         itemProp="description"
-        content="dawidolko's (dawidolko) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
+        content="gowthamraj's (gowthamraj) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
       />
       <meta itemProp="image" content="images/logos/fevicon.png" />
       /* Twitter */
       <meta name="twitter:card" content="summary" />
       <meta
         name="twitter:title"
-        content="ubuntu.dawidolko.pl - Simulaing System Ubuntu"
+        content="ubuntu.gowthamraj - Simulaing System Ubuntu"
       />
       <meta
         name="twitter:description"
-        content="Dawid Olko's (dawidolko) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
+        content="Gowtham Raj's (gowthamraj) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
       />
-      <meta name="twitter:site" content="dawidolko" />
-      <meta name="twitter:creator" content="dawidolko" />
+      <meta name="twitter:site" content="gowthamraj" />
+      <meta name="twitter:creator" content="gowthamraj" />
       <meta name="twitter:image:src" content="images/logos/logo_1024.png" />
       /* Open Graph general (Facebook, Pinterest & Google+) */
       <meta
         name="og:title"
-        content="ubuntu.dawidolko.pl - Simulaing System Ubuntu"
+        content="ubuntu.gowthamraj - Simulaing System Ubuntu"
       />
       <meta
         name="og:description"
-        content="Dawid Olko's (dawidolko) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
+        content="Gowtham Raj's (gowthamraj) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS."
       />
       <meta name="og:image" content="images/logos/logo_1200.png" />
-      <meta name="og:url" content="http://ubuntu.dawidolko.pl" />
+      <meta name="og:url" content="https://thinkmfc.in" />
       <meta name="og:site_name" content="Dawid Olko Personal Portfolio" />
       <meta name="og:locale" content="en_IN" />
       <meta name="og:type" content="website" />

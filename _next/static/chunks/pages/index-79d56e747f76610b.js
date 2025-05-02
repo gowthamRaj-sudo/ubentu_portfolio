@@ -73,7 +73,7 @@
                 children: [
                   (0, i.jsx)("a", {
                     className: "underline",
-                    href: "https://www.linkedin.com/in/dawidolko/",
+                    href: "https://www.linkedin.com/in/gowtham-raj-476805209",
                     rel: "noreferrer noopener",
                     target: "_blank",
                     children: "linkedin",
@@ -83,7 +83,7 @@
                     children: "|",
                   }),
                   (0, i.jsx)("a", {
-                    href: "https://github.com/dawidolko/dawidolko.github.io",
+                    href: "https://github.com/gowthamRaj-sudo",
                     rel: "noreferrer noopener",
                     target: "_blank",
                     className: "underline",
@@ -1407,9 +1407,9 @@
                     ", and now I'm looking for full-time frontend engineer roles! ( Hit me up ",
                     (0, i.jsx)("a", {
                       className: "text-underline",
-                      href: "mailto:poczta@dawidolko.pl",
+                      href: "mailto:gowthamraj87544@gmail.com",
                       children: (0, i.jsx)("u", {
-                        children: "@poczta@dawidolko.pl",
+                        children: "gowthamraj87544@gmail.com",
                       }),
                     }),
                     " :) )",
@@ -2182,7 +2182,7 @@
             desktop_shortcut: !1,
             screen: function () {
               return (0, i.jsx)("iframe", {
-                src: "https://github1s.com/dawidolko",
+                src: "https://github1s.com/gowthamRaj-sudo",
                 frameBorder: "0",
                 title: "VsCode",
                 className: "h-full w-full bg-ub-cool-grey",
@@ -2854,7 +2854,7 @@
           children: [
             (0, i.jsxs)("a", {
               rel: "noreferrer noopener",
-              href: "https://github.com/dawidolko/Simulaing-Ubuntu-System-GUI",
+              href: "https://github.com/gowthamRaj-sudo",
               target: "_blank",
               className:
                 "w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5",
@@ -2872,7 +2872,7 @@
             }),
             (0, i.jsxs)("a", {
               rel: "noreferrer noopener",
-              href: "https://github.com/dawidolko/Simulaing-Ubuntu-System-GUI/issues",
+              href: "https://github.com/gowthamRaj-sudo",
               target: "_blank",
               className:
                 "w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5",
@@ -2888,7 +2888,7 @@
             (0, i.jsx)(X, {}),
             (0, i.jsxs)("a", {
               rel: "noreferrer noopener",
-              href: "https://www.linkedin.com/in/dawidolko/",
+              href: "https://www.linkedin.com/in/gowtham-raj-476805209",
               target: "_blank",
               className:
                 "w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5",
@@ -2909,7 +2909,7 @@
             }),
             (0, i.jsxs)("a", {
               rel: "noreferrer noopener",
-              href: "https://github.com/dawidolko",
+              href: "https://github.com/gowthamRaj-sudo",
               target: "_blank",
               className:
                 "w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5",
@@ -2930,7 +2930,7 @@
             }),
             (0, i.jsxs)("a", {
               rel: "noreferrer noopener",
-              href: "mailto:poczta@dawidolko.pl",
+              href: "mailto:gowthamraj87544@gmail.com",
               target: "_blank",
               className:
                 "w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5",
@@ -4105,7 +4105,7 @@
             }),
             (0, i.jsx)("meta", {
               name: "og:url",
-              content: "http://ubuntu.dawidolko.pl/",
+              content: "https://thinkmfc.in",
             }),
             (0, i.jsx)("meta", {
               name: "og:site_name",
